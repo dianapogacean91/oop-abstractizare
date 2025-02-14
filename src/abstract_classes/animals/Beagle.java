@@ -1,6 +1,6 @@
 package abstract_classes.animals;
 
-public class Beagle extends Dog{
+public final class Beagle extends Dog{
 
 
     public Beagle(String name) {
